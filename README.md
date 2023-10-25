@@ -23,7 +23,7 @@ Ce gestionnaire de tâches personnelles est un programme simple en Python conçu
 
 1. Assurez-vous d'avoir Python installé sur votre ordinateur.
 
-2. Clonez ce référentiel ou téléchargez le fichier Python (`todo.py`).
+2. Clonez ce repository ou téléchargez le fichier Python (`todo.py`).
 
 3. Exécutez le programme à l'aide de votre terminal ou de votre environnement Python préféré.
 
