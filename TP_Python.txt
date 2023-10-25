@@ -1,0 +1,30 @@
+Contexte : Vous êtes une personne très occupée et vous avez du mal à garder une trace de toutes les tâches que vous devez accomplir. Pour vous aider à rester organisé, vous avez décidé de créer un gestionnaire de tâches personnelles en Python. Ce programme vous permettra de gérer efficacement vos tâches quotidiennes.
+
+
+
+Ajouter des Tâches : L'utilisateur devrait être en mesure d'ajouter de nouvelles tâches à sa liste. Par exemple, vous pourriez ajouter des tâches comme "Faire les courses", "Préparer le rapport pour le travail", etc.
+
+Afficher les Tâches : L'utilisateur devrait pouvoir afficher la liste complète de ses tâches. Cela vous permettra de voir rapidement ce que vous devez faire.
+
+Marquer les Tâches comme Terminées : L'utilisateur devrait avoir la possibilité de marquer une tâche comme terminée. Cela vous aidera à suivre les tâches que vous avez accomplies.
+
+Supprimer des Tâches : L'utilisateur devrait pouvoir supprimer une tâche de sa liste. Cela vous permettra de supprimer les tâches que vous n'avez plus besoin de faire.
+
+Quitter le Programme : L'utilisateur devrait avoir la possibilité de quitter le programme lorsque vous avez terminé de gérer vos tâches.
+
+
+Comment Structurer le Projet :
+
+Utilisez des variables pour stocker la liste des tâches. Vous pourriez choisir de stocker ces tâches dans une liste.
+
+Utilisez une boucle pour afficher le menu principal qui permet à l'utilisateur d'ajouter, afficher, marquer comme terminées, supprimer ou quitter.
+
+Pour ajouter une tâche, demandez simplement à l'utilisateur de saisir une description de tâche et ajoutez-la à la liste.
+
+Pour afficher les tâches, parcourez la liste et affichez chaque tâche avec un numéro d'identification.
+
+Pour marquer une tâche comme terminée, demandez à l'utilisateur de saisir le numéro de la tâche à marquer et mettez à jour son statut.
+
+Pour supprimer une tâche, demandez à l'utilisateur de saisir le numéro de la tâche à supprimer et retirez-la de la liste.
+
+Utilisez une boucle pour permettre à l'utilisateur d'interagir avec le programme tant qu'il ne choisit pas de quitter.
