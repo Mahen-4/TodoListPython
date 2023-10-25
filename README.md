@@ -12,7 +12,11 @@ Ce gestionnaire de tâches personnelles est un programme simple en Python conçu
 
 4. **Supprimer des Tâches :** Vous pouvez supprimer des tâches de votre liste lorsque vous n'en avez plus besoin.
 
-5. **Quitter le Programme :** Vous pouvez quitter le programme lorsque vous avez terminé de gérer vos tâches.
+5. **Sauvegarder des Tâches :** Vous pouvez sauvegarder toute vos tâches dans un fichier JSON
+
+6. **Récupérer les Tâches sauvgardée :** Vous pouvez récupérer les tâches que vous avez sauvegardée   
+
+7. **Quitter le Programme :** Vous pouvez quitter le programme lorsque vous avez terminé de gérer vos tâches.
 
 
 ## Comment Utiliser le Programme
